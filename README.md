@@ -2,6 +2,7 @@
 # Contributing
 [![Build Status](https://dev.azure.com/NTTTransformation/HumTransform/_apis/build/status/HumTransform-Maven-CI?branchName=master)](https://dev.azure.com/NTTTransformation/HumTransform/_build/latest?definitionId=1&branchName=master)
 [![Build Status](https://dev.azure.com/NTTTransformation/HumTransform/_apis/build/status/HumTransform-Maven-CI?branchName=master)](https://dev.azure.com/NTTTransformation/HumTransform/_build/latest?definitionId=1
+this is setup pipeline
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
